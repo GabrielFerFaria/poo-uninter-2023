@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+D:\Users\Documentos\Aulas uninter\programação orientada a objetos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
