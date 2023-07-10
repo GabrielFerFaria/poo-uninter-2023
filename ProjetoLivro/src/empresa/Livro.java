@@ -1,6 +1,6 @@
 package empresa;
 
-public class Livro {
+public abstract class Livro {
 
 	protected String titulo;
 	protected Autor autor;
